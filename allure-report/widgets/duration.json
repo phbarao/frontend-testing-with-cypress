@@ -1,0 +1,51 @@
+[ {
+  "uid" : "798f5aac86c2b3b0",
+  "name" : "should be able to sign in",
+  "time" : {
+    "start" : 1630465148757,
+    "stop" : 1630465149327,
+    "duration" : 570
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31b4e002d37b850a",
+  "name" : "should be able to create new cases",
+  "time" : {
+    "start" : 1630465149618,
+    "stop" : 1630465151216,
+    "duration" : 1598
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4f714199dc40ab9",
+  "name" : "should be able to remove a case",
+  "time" : {
+    "start" : 1630465151249,
+    "stop" : 1630465151564,
+    "duration" : 315
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd3f164c98c8fb1b",
+  "name" : "sould be able to sign out",
+  "time" : {
+    "start" : 1630465149338,
+    "stop" : 1630465149614,
+    "duration" : 276
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc60e07ec6cf5b31",
+  "name" : "should be able to register",
+  "time" : {
+    "start" : 1630465145851,
+    "stop" : 1630465148735,
+    "duration" : 2884
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -3,10 +3,16 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "cy:open": "cypress open"
+    "cy:run": "cypress run --env allure=true",
+    "allure:generate": "allure generate allure-results",
+    "allure:open": "allure open allure-report",
+    "allure:clear": "rm -r allure-results/ allure-report || true",
+    "cy:open": "cypress open",
+    "test": "npx npm-run-all allure:clear cy:run allure:generate"
   },
   "license": "MIT",
   "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.11.1",
     "cypress": "4.1"
   }
 }

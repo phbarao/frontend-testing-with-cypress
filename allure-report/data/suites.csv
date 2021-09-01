@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Aug 31 23:59:08 BRT 2021","Tue Aug 31 23:59:09 BRT 2021","570","","Ongs","","","","should be able to sign in",""
+"passed","Tue Aug 31 23:59:09 BRT 2021","Tue Aug 31 23:59:11 BRT 2021","1598","","Ongs","","","","should be able to create new cases",""
+"passed","Tue Aug 31 23:59:11 BRT 2021","Tue Aug 31 23:59:11 BRT 2021","315","","Ongs","","","","should be able to remove a case",""
+"passed","Tue Aug 31 23:59:09 BRT 2021","Tue Aug 31 23:59:09 BRT 2021","276","","Ongs","","","","sould be able to sign out",""
+"passed","Tue Aug 31 23:59:05 BRT 2021","Tue Aug 31 23:59:08 BRT 2021","2884","","Ongs","","","","should be able to register",""

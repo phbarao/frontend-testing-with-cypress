@@ -1,5 +1,3 @@
-// Ações de interação com a página
-
 const element = require("./elements").ELEMENTS;
 
 class Logon {
